@@ -22,3 +22,4 @@ Accompanying the RAM module is a detailed testbench that demonstrates its functi
 The repository is organized into well-defined sections to make it easy to navigate and integrate into your projects. The source code folder contains the Verilog module with extensive inline comments explaining every aspect of the design—from parameter definitions to clocked read/write operations. The testbench folder includes the simulation scripts and sample waveforms, offering a hands-on demonstration of how the module operates under different conditions. Detailed documentation in the README file provides step-by-step instructions for compiling, simulating, and integrating the RAM module into larger systems.his parameterization enables the module to be readily adapted for a variety of applications without needing to overhaul the entire design.
 
 OUTPUT:
+[Image](https://github.com/user-attachments/assets/c06e9899-8c69-43ef-980d-a24dc0531df3)
